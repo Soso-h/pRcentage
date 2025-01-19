@@ -1,0 +1,12 @@
+citHeader("To cite pRcentage in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "soso-h/pRcentage: Version 0.2.0 - First release",
+  author   = "Sophie Hetche",
+  year     = "2025",
+  url      = "https://github.com/Soso-h/pRcentage",
+  textVersion = paste(
+"Hetche, S. (2025). soso-h/pRcentage: Version 0.2.0 - First release (Version v0.2.0) [Computer software].https://github.com/Soso-h/pRcentage"
+  )
+)
