@@ -1,0 +1,14 @@
+Package: pRcentage
+Type: Package
+Title: A simple percentage formatting function
+Version: 0.2.0
+Author: Sophie Hetche
+Maintainer: Sophie Hetche <s.hetche@students.uu.nl>
+Description: A simple function to convert numeric values to percentage format.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    magrittr
